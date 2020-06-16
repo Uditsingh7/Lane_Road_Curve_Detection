@@ -1,0 +1,2 @@
+# Lane_Road_Curve_Detection
+In any driving scenario, lane lines are an essential component of indicating traffic flow and where a vehicle should drive. It's also a good starting point when developing a self-driving car! Building on my previous lane detection project, I've implemented a curved lane detection system that works much better, and is more robust to challenging environments. The lane detection system was written in Python using the OpenCV library.
